@@ -1,22 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
-- title: Expositions
-  target: "/expositions/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/exhibitions"
-  file: content/fr/exhibitions/_index.html
-- title: Projets
-  target: "/projets/"
+- title: Portfolio
+  target: "/portfolio/"
   kind: page
   new_tab: false
   children: []
@@ -36,11 +22,11 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Équipe
-  target: "/equipe/"
+- title: Expositions
+  target: "/expositions/"
   kind: page
   new_tab: false
   children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
+  path: "/exhibitions"
+  file: content/fr/exhibitions/_index.html
 
